@@ -4,6 +4,7 @@
 - Follow / UnFollow
 - Explore user
 - Explore content
+- Log In / Sign In
 
 ### Technologies 
 - Flask
